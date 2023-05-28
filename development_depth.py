@@ -62,5 +62,5 @@ print(gs.best_score_)
 print("========================================")
 
 # Save the best model
-gs.best_estimator_.get_booster().save_model('best_depth_model.model')
+gs.best_estimator_.get_booster().save_model('best_depth_model.json')
 
