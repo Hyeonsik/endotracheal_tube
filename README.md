@@ -1,4 +1,4 @@
-# Predicintg optimal endotracheal_tube size and depth in pediatric patients using demographic data and machine learning etchniques
+# Predicting optimal endotracheal_tube size and depth in pediatric patients using demographic data and machine learning techniques ([Link](https://www.ekja.org/journal/view.php?number=8934))
 ## Running title: AI for pediatric size and depth
 
 We provide access to both the data and code used in the study involving model development and validation. The repository includes the following files, each with a distinct purpose:
