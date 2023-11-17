@@ -1,10 +1,11 @@
-
 import pickle
 import xgboost as xgb
 import numpy as np
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV
 from sklearn.utils import shuffle
 
+from sklearn.experimental import enable_iterative_imputer
+from sklearn.impute import IterativeImputer
 
 # Set random seed
 SEED = 98
